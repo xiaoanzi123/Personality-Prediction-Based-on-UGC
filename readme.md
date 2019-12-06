@@ -1,4 +1,4 @@
-# Twitter HK Analysis
+# Personality-Prediction-Based-on-UGC
 
 This repo contains dataset and code for the article: **Intrinsic or Situational? Can Internet Trolling Spread from Person to Person?
 Examining the Impact of Personality and Network Attributes on Trolling Behavior**
